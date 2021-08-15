@@ -1,0 +1,60 @@
+table {
+    background: #3d84db;
+    width: 100%;
+    /*     border-collapse:collapse;   */
+}
+
+th {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* #tr1{
+    border-left: 2px solid whitesmoke;
+    padding: 10px;
+  } */
+/* #tr2{
+    border-bottom:2px solid grey;
+    padding: 10px;
+  }     */
+
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#ldiv01 {
+    font-size: 45px;
+    text-align: left;
+    color: white;
+}
+
+#ldiv02 {
+    font-size: 15px;
+    text-align: left;
+    color: white;
+}
+
+i {
+    font-size: 25px;
+    color: white;
+}
+
+ul {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+#ltd1,
+#ltd02 {
+    padding-right: 60px;
+
+}
+
+#ltd1 {
+    padding-right: 0px;
+
+}
